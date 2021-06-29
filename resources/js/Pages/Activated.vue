@@ -9,7 +9,7 @@
         <div class="py-12">
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
-                    <h2>This is the page after 2fa is activated</h2>
+                    <h2 class="text-2xl font-serif text-center py-4">This is the page after 2fa is activated</h2>
                 </div>
             </div>
         </div>
