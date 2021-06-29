@@ -10,6 +10,7 @@ A coding test for a Junior Backend Developer position at Wewetube.
 - **Run (update database access variables in .env file)**
 - **Run (php artisan migrate --seed)**
 - **Run (run php artisan serve)**
-- **Run (visit app at http://localhost:8000)**
+- **Visit app at http://localhost:8000**
+- **Login with email(hello@wewetube.com) and password(password)**
 
 
